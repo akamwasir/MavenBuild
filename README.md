@@ -12,4 +12,4 @@ Once this is done u will be see image using docker image
 
 This is a demo
 
-docker run -d -p 8080:8080 --name dockercontainer mavenbuild
+
